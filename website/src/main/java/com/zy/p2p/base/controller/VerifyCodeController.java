@@ -88,3 +88,9 @@ public class VerifyCodeController {
         return "checkmail_result";
     }
 }
+
+class Test{
+    public static void main(String[] args) {
+
+    }
+}
