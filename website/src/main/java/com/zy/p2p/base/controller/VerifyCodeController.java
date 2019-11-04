@@ -88,4 +88,5 @@ public class VerifyCodeController {
         return "checkmail_result";
     }
 }
-class C{}
+
+class XX{}
